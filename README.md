@@ -83,7 +83,7 @@ To build a data-driven, visual solution that:
 
 📄 **SQL Output Results**:
 
-* (https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/SaaS_Customer_Churn.pdf) contains all query results for quick business understanding
+* (https://github.com/shivamseth7676-hue/SaaS-Churn-Analysis/blob/main/SaaS_Customer_Churn.pdf) contains all query results for quick business understanding
 
 ---
 
@@ -131,17 +131,17 @@ To build a data-driven, visual solution that:
 ## 6. 📂 Files & GitHub Links
 
 ```markdown
-- [📁 SQL Queries](https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/customer_churn_sql.sql)
-- [📓 Python Notebook](https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/Customer%20Churn.ipynb)
-- [📄 SQL Results PDF](https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/SaaS_Customer_Churn.pdf)
-- [📊 Power BI Dashboard](https://github.com/Shreya4546/SaaS-Churn-Analysis/blob/main/Churn%20Analysis%20Dashboard.pbix)
+- [📁 SQL Queries](https://github.com/shivamseth7676-hue/SaaS-Churn-Analysis/blob/main/customer_churn_sql.sql)
+- [📓 Python Notebook](https://github.com/shivamseth7676-hue/SaaS-Churn-Analysis/blob/main/Customer%20Churn.ipynb)
+- [📄 SQL Results PDF](https://github.com/shivamseth7676-hue/SaaS-Churn-Analysis/blob/main/SaaS_Customer_Churn.pdf)
+- [📊 Power BI Dashboard](https://github.com/shivamseth7676-hue/SaaS-Churn-Analysis/blob/main/Churn%20Analysis%20Dashboard.pbix)
 ```
 
 ---
 
 ## 7. 🖼️ Screenshots / Demos
 
-> ![image](https://github.com/user-attachments/assets/a1279dda-7fba-463b-8e63-cb11134d024e)
+> 
 
 ---
 
