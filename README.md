@@ -141,7 +141,7 @@ To build a data-driven, visual solution that:
 
 ## 7. 🖼️ Screenshots / Demos
 
-> 
+> https://github.com/shivamseth7676-hue/SaaS-Churn-Analysis/blob/main/SaaS%20Customer%20Churn%20Dashboard.png
 
 ---
 
